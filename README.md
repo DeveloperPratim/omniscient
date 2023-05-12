@@ -11,7 +11,7 @@ This project is a part of my final year project for college. The Omniscient NLP 
 - Interactive explanations: The model provides detailed explanations for various concepts and topics in different subjects.
 - Question answering: Students can ask questions related to the subject matter, and the model will attempt to provide accurate answers.
 - Personalized guidance: The virtual teacher adapts to the student's progress and offers customized learning paths and recommendations.
-- Multi-subject support: The model covers multiple subjects, such as mathematics, science, programming, and more.
+- Multi-subject support: The model covers multiple subjects, such as mathematics, science, programming, and more. But initially only Operating System subject is under use .
 
 ## Installation
 
