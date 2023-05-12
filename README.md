@@ -13,7 +13,7 @@ This project is a part of my final year project for college. The Omniscient NLP 
 - Personalized guidance: The virtual teacher adapts to the student's progress and offers customized learning paths and recommendations.
 - Multi-subject support: The model covers multiple subjects, such as mathematics, science, programming, and more.
 
-## Installation
+### Installation
 
 1. Clone the repository:
    ```
